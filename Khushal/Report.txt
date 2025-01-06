@@ -1,0 +1,153 @@
+Read parcel: X009
+Read parcel: X020
+Read parcel: X025
+Read parcel: X036
+Read parcel: X064
+Read parcel: X086
+Read parcel: X121
+Read parcel: X198
+Read parcel: X213
+Read parcel: X214
+Read parcel: X278
+Read parcel: X285
+Read parcel: X309
+Read parcel: X316
+Read parcel: X386
+Read parcel: X475
+Read parcel: X507
+Read parcel: X521
+Read parcel: X540
+Read parcel: X552
+Read parcel: X606
+Read parcel: X682
+Read parcel: X720
+Read parcel: X733
+Read parcel: X746
+Read parcel: X780
+Read parcel: X782
+Read parcel: X857
+Read parcel: X904
+Read parcel: X919
+Read customer: Andrew Robertson with parcel X919
+Read customer: Ann Jones with parcel X064
+Read customer: Blair Foster with parcel X682
+Read customer: Bob Dawson with parcel X780
+Read customer: Chris Smith with parcel X782
+Read customer: Dave Jackson with parcel X316
+Read customer: David Hunter with parcel X278
+Read customer: Donald Murray with parcel X720
+Read customer: Fiona Thoms with parcel X475
+Read customer: Gillian Hamilton with parcel X386
+Read customer: Harry Johnston with parcel X857
+Read customer: Helen Webster with parcel X309
+Read customer: Jack Houston with parcel X733
+Read customer: Jo Hill with parcel X285
+Read customer: Joe Woods with parcel X213
+Read customer: John Brown with parcel X009
+Read customer: Judy Hilman with parcel X904
+Read customer: Keith Burns with parcel X552
+Read customer: Lily Watson with parcel X121
+Read customer: Lucy Grey with parcel X025
+Read customer: Mary Brown with parcel X198
+Read customer: Pamela Field with parcel X521
+Read customer: Peter White with parcel X036
+Read customer: Robert Murray with parcel X606
+Read customer: Susan Turner with parcel X214
+Read customer: Thomas Young with parcel X507
+Read customer: Tim Smith with parcel X020
+Read customer: Tony Lawson with parcel X086
+Read customer: Ursula Milton with parcel X746
+Read customer: Viola Nicholson with parcel X540
+Customer Andrew Robertson collected parcel X919 with fee: 4.1
+Processed customer: Andrew Robertson
+Customer Ann Jones collected parcel X064 with fee: 4.8
+Processed customer: Ann Jones
+Customer Blair Foster collected parcel X682 with fee: 2.7
+Processed customer: Blair Foster
+Customer Bob Dawson collected parcel X780 with fee: 2.2
+Processed customer: Bob Dawson
+Customer Chris Smith collected parcel X782 with fee: 3.1
+Processed customer: Chris Smith
+Customer Dave Jackson collected parcel X316 with fee: 5.5
+Processed customer: Dave Jackson
+Customer David Hunter collected parcel X278 with fee: 3.1
+Processed customer: David Hunter
+Customer Donald Murray collected parcel X720 with fee: 2.4
+Processed customer: Donald Murray
+Customer Fiona Thoms collected parcel X475 with fee: 2.6
+Processed customer: Fiona Thoms
+Customer Gillian Hamilton collected parcel X386 with fee: 4.7
+Processed customer: Gillian Hamilton
+Customer Harry Johnston collected parcel X857 with fee: 2.2
+Processed customer: Harry Johnston
+Customer Helen Webster collected parcel X309 with fee: 0.9
+Processed customer: Helen Webster
+Customer Jack Houston collected parcel X733 with fee: 4.2
+Processed customer: Jack Houston
+Customer Jo Hill collected parcel X285 with fee: 1.3
+Processed customer: Jo Hill
+Customer Joe Woods collected parcel X213 with fee: 3.6
+Processed customer: Joe Woods
+Customer John Brown collected parcel X009 with fee: 4.7
+Processed customer: John Brown
+Customer Judy Hilman collected parcel X904 with fee: 2.2
+Processed customer: Judy Hilman
+Customer Keith Burns collected parcel X552 with fee: 3.0
+Processed customer: Keith Burns
+Customer Lily Watson collected parcel X121 with fee: 2.9000000000000004
+Processed customer: Lily Watson
+Customer Lucy Grey collected parcel X025 with fee: 3.7
+Processed customer: Lucy Grey
+Customer Mary Brown collected parcel X198 with fee: 5.3
+Processed customer: Mary Brown
+Customer Pamela Field collected parcel X521 with fee: 3.8
+Processed customer: Pamela Field
+Customer Peter White collected parcel X036 with fee: 4.8
+Processed customer: Peter White
+Customer Robert Murray collected parcel X606 with fee: 5.6
+Processed customer: Robert Murray
+Customer Susan Turner collected parcel X214 with fee: 2.1
+Processed customer: Susan Turner
+Customer Thomas Young collected parcel X507 with fee: 3.1
+Processed customer: Thomas Young
+Customer Tim Smith collected parcel X020 with fee: 0.7
+Processed customer: Tim Smith
+Customer Tony Lawson collected parcel X086 with fee: 4.3
+Processed customer: Tony Lawson
+Customer Ursula Milton collected parcel X746 with fee: 2.8
+Processed customer: Ursula Milton
+Customer Viola Nicholson collected parcel X540 with fee: 4.9
+Processed customer: Viola Nicholson
+Collected Parcels:
+X009 collected with fee: 4.7
+X746 collected with fee: 2.8
+X309 collected with fee: 0.9
+X507 collected with fee: 3.1
+X606 collected with fee: 5.6
+X904 collected with fee: 2.2
+X198 collected with fee: 5.3
+X475 collected with fee: 2.6
+X552 collected with fee: 3.0
+X036 collected with fee: 4.8
+X278 collected with fee: 3.1
+X213 collected with fee: 3.6
+X214 collected with fee: 2.1
+X733 collected with fee: 4.2
+X919 collected with fee: 4.1
+X316 collected with fee: 5.5
+X857 collected with fee: 2.2
+X121 collected with fee: 2.9000000000000004
+X682 collected with fee: 2.7
+X386 collected with fee: 4.7
+X540 collected with fee: 4.9
+X782 collected with fee: 3.1
+X025 collected with fee: 3.7
+X521 collected with fee: 3.8
+X720 collected with fee: 2.4
+X020 collected with fee: 0.7
+X064 collected with fee: 4.8
+X086 collected with fee: 4.3
+X285 collected with fee: 1.3
+X780 collected with fee: 2.2
+
+Uncollected Parcels:
